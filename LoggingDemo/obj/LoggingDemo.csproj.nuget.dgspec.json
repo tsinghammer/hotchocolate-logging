@@ -43,6 +43,10 @@
             "HotChocolate.AspNetCore": {
               "target": "Package",
               "version": "[11.2.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             }
           },
           "imports": [

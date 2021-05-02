@@ -44,3 +44,14 @@ C:\Projects\Likron\hotchocolate-logging\LoggingDemo\obj\Debug\net5.0\LoggingDemo
 C:\Projects\Likron\hotchocolate-logging\LoggingDemo\obj\Debug\net5.0\ref\LoggingDemo.dll
 C:\Projects\Likron\hotchocolate-logging\LoggingDemo\obj\Debug\net5.0\LoggingDemo.pdb
 C:\Projects\Likron\hotchocolate-logging\LoggingDemo\obj\Debug\net5.0\LoggingDemo.genruntimeconfig.cache
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Projects\Likron\hotchocolate-logging\LoggingDemo\bin\Debug\net5.0\Serilog.Sinks.File.dll
