@@ -9,7 +9,7 @@ namespace LoggingDemo
 {
     public class Program
     {
-        public static Task Main(string[] args)
+        public static void Main(string[] args)
         {
             Log.Logger = new LoggerConfiguration()
             .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
@@ -20,12 +20,13 @@ namespace LoggingDemo
             try
             {
                 Log.Information("Starting web host");
-                return CreateHostBuilder(args).Build().RunAsync();
+                CreateHostBuilder(args).Build().Run();
+                return;
             }
             catch (Exception ex)
             {
                 Log.Fatal(ex, "Host terminated unexpectedly");
-                return Task.FromResult(ex);
+                return;
             }
             finally
             {
